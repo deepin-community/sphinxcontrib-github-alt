@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+sphinxcontrib-github-alt (1.2-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Julian Gilbey <jdg@debian.org>  Wed, 08 May 2024 17:23:02 +0100
+
+sphinxcontrib-github-alt (1.2-1) unstable; urgency=medium
+
+  * Initial upload (closes: #1060128)
+
+ -- Julian Gilbey <jdg@debian.org>  Mon, 08 Apr 2024 07:08:19 +0100
